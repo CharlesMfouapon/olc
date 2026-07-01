@@ -1,0 +1,108 @@
+{
+  "corpus_name": "EAC Legal Corpus",
+  "jurisdiction": "EAC",
+  "description": "A curated collection of foundational treaties, protocols, and regulations of the East African Community.",
+  "last_updated": "2026-07-02",
+  "documents": [
+    {
+      "id": "EAC-TREATY-001",
+      "title": "Treaty for the Establishment of the East African Community",
+      "type": "Treaty",
+      "year": 1999,
+      "summary": "The foundational treaty establishing the East African Community, laying the groundwork for regional integration, cooperation, and a common market among member states.",
+      "keywords": ["treaty", "foundational", "integration", "cooperation", "common market"],
+      "source_url": "https://www.eac.int/",
+      "citation_format": "EAC Treaty (1999)"
+    },
+    {
+      "id": "EAC-PROTOCOL-002",
+      "title": "Protocol on the Establishment of the East African Community Common Market",
+      "type": "Protocol",
+      "year": 2010,
+      "summary": "Establishes the EAC Common Market, guaranteeing the free movement of goods, services, capital, and labor across all member states.",
+      "keywords": ["common market", "free movement", "goods", "services", "labor"],
+      "source_url": "https://www.eac.int/",
+      "citation_format": "EAC Common Market Protocol (2010)"
+    },
+    {
+      "id": "EAC-PROTOCOL-003",
+      "title": "Protocol on the East African Community Court of Justice",
+      "type": "Protocol",
+      "year": 2015,
+      "summary": "Establishes the East African Community Court of Justice, its jurisdiction, composition, and procedures for resolving disputes related to the interpretation and application of the Treaty.",
+      "keywords": ["court", "justice", "jurisdiction", "disputes", "interpretation"],
+      "source_url": "https://www.eac.int/",
+      "citation_format": "EAC Protocol on the Court of Justice (2015)"
+    },
+    {
+      "id": "EAC-REG-004",
+      "title": "Regulation on the Harmonization of Standards and Quality Infrastructure",
+      "type": "Regulation",
+      "year": 2017,
+      "summary": "Harmonizes standards and quality assurance measures across the EAC to facilitate trade and ensure the safety of products within the community.",
+      "keywords": ["standards", "quality", "harmonization", "trade", "safety"],
+      "source_url": "https://www.eac.int/",
+      "citation_format": "EAC Regulation on Standards Harmonization (2017)"
+    },
+    {
+      "id": "EAC-REG-005",
+      "title": "Regulation on the Harmonization of Investment Policies",
+      "type": "Regulation",
+      "year": 2018,
+      "summary": "Harmonizes investment policies across the EAC to create a unified and attractive investment environment for domestic and foreign investors.",
+      "keywords": ["investment", "harmonization", "policy", "FDI", "attraction"],
+      "source_url": "https://www.eac.int/",
+      "citation_format": "EAC Regulation on Investment Harmonization (2018)"
+    },
+    {
+      "id": "EAC-REG-006",
+      "title": "Regulation on the Harmonization of Customs Procedures",
+      "type": "Regulation",
+      "year": 2016,
+      "summary": "Harmonizes customs procedures and documentation across EAC member states to facilitate cross-border trade and reduce non-tariff barriers.",
+      "keywords": ["customs", "harmonization", "trade", "procedures", "non-tariff barriers"],
+      "source_url": "https://www.eac.int/",
+      "citation_format": "EAC Regulation on Customs Harmonization (2016)"
+    },
+    {
+      "id": "EAC-PROTOCOL-007",
+      "title": "Protocol on the EAC Political Confederation",
+      "type": "Protocol",
+      "year": 2021,
+      "summary": "Outlines the framework for the eventual establishment of a political confederation of EAC member states, deepening regional integration beyond economic cooperation.",
+      "keywords": ["political confederation", "integration", "governance", "deepening"],
+      "source_url": "https://www.eac.int/",
+      "citation_format": "EAC Protocol on Political Confederation (2021)"
+    },
+    {
+      "id": "EAC-REG-008",
+      "title": "Regulation on the Harmonization of Business Registration",
+      "type": "Regulation",
+      "year": 2019,
+      "summary": "Directs member states to harmonize business registration procedures to reduce the time and cost of starting a business within the community.",
+      "keywords": ["business", "registration", "harmonization", "ease of doing business"],
+      "source_url": "https://www.eac.int/",
+      "citation_format": "EAC Regulation on Business Registration Harmonization (2019)"
+    },
+    {
+      "id": "EAC-REG-009",
+      "title": "Regulation on the East African Passport",
+      "type": "Regulation",
+      "year": 2016,
+      "summary": "Establishes the legal framework for the issuance and mutual recognition of the East African e-passport across all member states.",
+      "keywords": ["passport", "e-passport", "recognition", "travel", "identity"],
+      "source_url": "https://www.eac.int/",
+      "citation_format": "EAC Regulation on the East African Passport (2016)"
+    },
+    {
+      "id": "EAC-JUDG-010",
+      "title": "EAC Court of Justice: Tanzania v. Kenya (2021)",
+      "type": "Judgment",
+      "year": 2021,
+      "summary": "A landmark judgment by the EAC Court of Justice affirming the supremacy of community law over national law in matters related to the Common Market Protocol.",
+      "keywords": ["supremacy", "community law", "national law", "common market", "judgment"],
+      "source_url": "https://www.eacj.org/",
+      "citation_format": "Tanzania v. Kenya, EACJ/REF/01/21 (2021)"
+    }
+  ]
+}
