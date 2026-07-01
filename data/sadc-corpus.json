@@ -1,0 +1,108 @@
+{
+  "corpus_name": "SADC Legal Corpus",
+  "jurisdiction": "SADC",
+  "description": "A curated collection of foundational treaties, protocols, and regulations of the Southern African Development Community.",
+  "last_updated": "2026-07-02",
+  "documents": [
+    {
+      "id": "SADC-TREATY-001",
+      "title": "SADC Treaty",
+      "type": "Treaty",
+      "year": 1992,
+      "summary": "The foundational treaty establishing the Southern African Development Community, aiming to promote regional integration, economic growth, and peace and security in southern Africa.",
+      "keywords": ["treaty", "foundational", "integration", "economic growth", "peace"],
+      "source_url": "https://www.sadc.int/",
+      "citation_format": "SADC Treaty (1992)"
+    },
+    {
+      "id": "SADC-PROTOCOL-002",
+      "title": "Protocol on Trade in Services",
+      "type": "Protocol",
+      "year": 2012,
+      "summary": "Establishes a framework for the liberalization of trade in services within the SADC region, promoting cross-border service provision and economic integration.",
+      "keywords": ["trade in services", "liberalization", "integration", "cross-border"],
+      "source_url": "https://www.sadc.int/",
+      "citation_format": "SADC Protocol on Trade in Services (2012)"
+    },
+    {
+      "id": "SADC-PROTOCOL-003",
+      "title": "Protocol on the SADC Tribunal",
+      "type": "Protocol",
+      "year": 2000,
+      "summary": "Establishes the SADC Tribunal, its jurisdiction, composition, and role in resolving disputes related to the interpretation and application of the SADC Treaty and its protocols.",
+      "keywords": ["tribunal", "jurisdiction", "disputes", "interpretation", "court"],
+      "source_url": "https://www.sadc.int/",
+      "citation_format": "SADC Protocol on the Tribunal (2000)"
+    },
+    {
+      "id": "SADC-PROTOCOL-004",
+      "title": "Protocol on Energy in the SADC Region",
+      "type": "Protocol",
+      "year": 2006,
+      "summary": "Establishes a framework for cooperation in the energy sector, promoting the development of renewable energy, energy efficiency, and regional energy security.",
+      "keywords": ["energy", "renewable", "efficiency", "security", "cooperation"],
+      "source_url": "https://www.sadc.int/",
+      "citation_format": "SADC Protocol on Energy (2006)"
+    },
+    {
+      "id": "SADC-PROTOCOL-005",
+      "title": "Protocol on Mining in the SADC Region",
+      "type": "Protocol",
+      "year": 2005,
+      "summary": "Establishes a framework for cooperation in the mining sector, promoting sustainable mining practices, investment, and the development of mineral resources in the region.",
+      "keywords": ["mining", "sustainable", "investment", "mineral resources", "cooperation"],
+      "source_url": "https://www.sadc.int/",
+      "citation_format": "SADC Protocol on Mining (2005)"
+    },
+    {
+      "id": "SADC-PROTOCOL-006",
+      "title": "Protocol on Gender and Development",
+      "type": "Protocol",
+      "year": 2008,
+      "summary": "Establishes a framework for promoting gender equality, women's empowerment, and the integration of gender perspectives in all SADC policies and programs.",
+      "keywords": ["gender equality", "empowerment", "development", "integration"],
+      "source_url": "https://www.sadc.int/",
+      "citation_format": "SADC Protocol on Gender and Development (2008)"
+    },
+    {
+      "id": "SADC-PROTOCOL-007",
+      "title": "Protocol on Transport, Communications, and Meteorology",
+      "type": "Protocol",
+      "year": 2001,
+      "summary": "Establishes a framework for regional cooperation in transport, communications, and meteorology, promoting connectivity and infrastructure development across the SADC region.",
+      "keywords": ["transport", "communications", "meteorology", "infrastructure", "connectivity"],
+      "source_url": "https://www.sadc.int/",
+      "citation_format": "SADC Protocol on Transport and Communications (2001)"
+    },
+    {
+      "id": "SADC-PROTOCOL-008",
+      "title": "Protocol on the Facilitation of Movement of Persons",
+      "type": "Protocol",
+      "year": 2005,
+      "summary": "Establishes a framework for the facilitation of the movement of persons within the SADC region, promoting regional integration and cross-border mobility.",
+      "keywords": ["movement of persons", "facilitation", "integration", "mobility", "cross-border"],
+      "source_url": "https://www.sadc.int/",
+      "citation_format": "SADC Protocol on the Facilitation of Movement of Persons (2005)"
+    },
+    {
+      "id": "SADC-PROTOCOL-009",
+      "title": "Protocol on Agriculture and Food Security",
+      "type": "Protocol",
+      "year": 2014,
+      "summary": "Establishes a framework for regional cooperation in agriculture, promoting food security, sustainable farming practices, and agricultural development in the SADC region.",
+      "keywords": ["agriculture", "food security", "sustainable farming", "development"],
+      "source_url": "https://www.sadc.int/",
+      "citation_format": "SADC Protocol on Agriculture and Food Security (2014)"
+    },
+    {
+      "id": "SADC-JUDG-010",
+      "title": "SADC Tribunal: Mike Campbell v. Zimbabwe (2008)",
+      "type": "Judgment",
+      "year": 2008,
+      "summary": "A landmark judgment by the SADC Tribunal affirming the rights of citizens to access justice and protect their property rights, and establishing the Tribunal's jurisdiction over human rights violations.",
+      "keywords": ["access to justice", "property rights", "human rights", "tribunal", "jurisdiction"],
+      "source_url": "https://www.sadc.int/",
+      "citation_format": "Mike Campbell v. Zimbabwe, SADC (T) 1/2008 (2008)"
+    }
+  ]
+}
