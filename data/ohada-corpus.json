@@ -1,0 +1,108 @@
+{
+  "corpus_name": "OHADA Legal Corpus",
+  "jurisdiction": "OHADA",
+  "description": "A curated collection of the Uniform Acts of the Organization for the Harmonization of Business Law in Africa.",
+  "last_updated": "2026-07-01",
+  "documents": [
+    {
+      "id": "OHADA-UA-GCL-001",
+      "title": "Uniform Act on General Commercial Law",
+      "type": "Uniform Act",
+      "year": 2010,
+      "summary": "The foundational commercial code for OHADA. Regulates merchants, commercial contracts, sales, and commercial registers.",
+      "keywords": ["commercial law", "contracts", "sales", "merchants", "RCCM"],
+      "source_url": "https://www.ohada.org/",
+      "citation_format": "OHADA Uniform Act on General Commercial Law (2010)"
+    },
+    {
+      "id": "OHADA-UA-CC-002",
+      "title": "Uniform Act on Commercial Companies",
+      "type": "Uniform Act",
+      "year": 2014,
+      "summary": "Governs the formation, management, and dissolution of commercial companies (SA, SARL, SNC, etc.) across OHADA jurisdictions.",
+      "keywords": ["companies", "incorporation", "shareholders", "directors", "liquidation"],
+      "source_url": "https://www.ohada.org/",
+      "citation_format": "OHADA Uniform Act on Commercial Companies (2014)"
+    },
+    {
+      "id": "OHADA-UA-SEC-003",
+      "title": "Uniform Act on Securities",
+      "type": "Uniform Act",
+      "year": 2010,
+      "summary": "Regulates the creation, perfection, and enforcement of security interests (pledges, mortgages, liens) over movable and immovable property.",
+      "keywords": ["security interests", "pledges", "mortgages", "liens", "creditors"],
+      "source_url": "https://www.ohada.org/",
+      "citation_format": "OHADA Uniform Act on Securities (2010)"
+    },
+    {
+      "id": "OHADA-UA-SE-004",
+      "title": "Uniform Act on Simplified Forms of Commercial Companies",
+      "type": "Uniform Act",
+      "year": 2010,
+      "summary": "Provides streamlined rules for small businesses and sole proprietors (SUARL, EURL) to operate within the OHADA framework.",
+      "keywords": ["small business", "SUARL", "EURL", "sole proprietor", "simplified"],
+      "source_url": "https://www.ohada.org/",
+      "citation_format": "OHADA Uniform Act on Simplified Forms of Commercial Companies (2010)"
+    },
+    {
+      "id": "OHADA-UA-CCP-005",
+      "title": "Uniform Act on Accounting Law",
+      "type": "Uniform Act",
+      "year": 2017,
+      "summary": "Establishes the SYSCOHADA accounting framework for all commercial entities in OHADA member states.",
+      "keywords": ["accounting", "SYSCOHADA", "financial statements", "audit", "balance sheet"],
+      "source_url": "https://www.ohada.org/",
+      "citation_format": "OHADA Uniform Act on Accounting Law (2017)"
+    },
+    {
+      "id": "OHADA-UA-INS-006",
+      "title": "Uniform Act on Insurance Contracts",
+      "type": "Uniform Act",
+      "year": 2011,
+      "summary": "Regulates the formation and execution of insurance contracts within the OHADA zone.",
+      "keywords": ["insurance", "risk", "indemnity", "premiums", "claims"],
+      "source_url": "https://www.ohada.org/",
+      "citation_format": "OHADA Uniform Act on Insurance Contracts (2011)"
+    },
+    {
+      "id": "OHADA-UA-ARB-007",
+      "title": "Uniform Act on Arbitration",
+      "type": "Uniform Act",
+      "year": 2017,
+      "summary": "Sets out the rules for domestic and international commercial arbitration within the OHADA legal framework.",
+      "keywords": ["arbitration", "dispute resolution", "award", "tribunal", "CCJA"],
+      "source_url": "https://www.ohada.org/",
+      "citation_format": "OHADA Uniform Act on Arbitration (2017)"
+    },
+    {
+      "id": "OHADA-UA-TRAN-008",
+      "title": "Uniform Act on Transport of Goods by Road",
+      "type": "Uniform Act",
+      "year": 2010,
+      "summary": "Governs the carriage of goods by road across OHADA territories, including liability and documentation requirements.",
+      "keywords": ["transport", "carriage of goods", "road haulage", "liability", "freight"],
+      "source_url": "https://www.ohada.org/",
+      "citation_format": "OHADA Uniform Act on Transport of Goods by Road (2010)"
+    },
+    {
+      "id": "OHADA-UA-COOP-009",
+      "title": "Uniform Act on Cooperative Societies",
+      "type": "Uniform Act",
+      "year": 2010,
+      "summary": "Provides the legal framework for the creation and operation of cooperative societies within the OHADA system.",
+      "keywords": ["cooperatives", "members", "mutual benefit", "societies"],
+      "source_url": "https://www.ohada.org/",
+      "citation_format": "OHADA Uniform Act on Cooperative Societies (2010)"
+    },
+    {
+      "id": "OHADA-UA-MEDI-010",
+      "title": "Uniform Act on Mediation",
+      "type": "Uniform Act",
+      "year": 2017,
+      "summary": "Establishes the legal framework for mediation as an alternative dispute resolution mechanism in OHADA.",
+      "keywords": ["mediation", "ADR", "settlement", "conciliation", "dispute"],
+      "source_url": "https://www.ohada.org/",
+      "citation_format": "OHADA Uniform Act on Mediation (2017)"
+    }
+  ]
+}
