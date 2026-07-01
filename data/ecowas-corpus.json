@@ -1,0 +1,108 @@
+{
+  "corpus_name": "ECOWAS Legal Corpus",
+  "jurisdiction": "ECOWAS",
+  "description": "A curated collection of foundational treaties, protocols, and regulations of the Economic Community of West African States.",
+  "last_updated": "2026-07-02",
+  "documents": [
+    {
+      "id": "ECOWAS-TREATY-001",
+      "title": "ECOWAS Treaty (Revised)",
+      "type": "Treaty",
+      "year": 1993,
+      "summary": "The foundational treaty establishing the Economic Community of West African States. It outlines the community's objectives, institutions, and the legal framework for economic integration, free movement, and regional cooperation.",
+      "keywords": ["treaty", "foundational", "integration", "free movement", "cooperation"],
+      "source_url": "https://www.ecowas.int/",
+      "citation_format": "ECOWAS Revised Treaty (1993)"
+    },
+    {
+      "id": "ECOWAS-PROTOCOL-002",
+      "title": "Protocol on the Free Movement of Persons, Goods, and Services",
+      "type": "Protocol",
+      "year": 1979,
+      "summary": "Establishes the right of ECOWAS citizens to enter, reside, and establish businesses in any member state. Guarantees the free movement of goods and services across the region.",
+      "keywords": ["free movement", "residence", "establishment", "trade", "citizens"],
+      "source_url": "https://www.ecowas.int/",
+      "citation_format": "ECOWAS Protocol on Free Movement (1979)"
+    },
+    {
+      "id": "ECOWAS-PROTOCOL-003",
+      "title": "Protocol on the Community Court of Justice",
+      "type": "Protocol",
+      "year": 2005,
+      "summary": "Establishes the ECOWAS Community Court of Justice, its jurisdiction, composition, and procedures. Grants individuals the right to bring actions against community institutions.",
+      "keywords": ["court", "justice", "jurisdiction", "individuals", "dispute resolution"],
+      "source_url": "https://www.ecowas.int/",
+      "citation_format": "ECOWAS Protocol on the Community Court of Justice (2005)"
+    },
+    {
+      "id": "ECOWAS-REG-004",
+      "title": "Regulation on the Harmonization of Customs Procedures",
+      "type": "Regulation",
+      "year": 2010,
+      "summary": "Harmonizes customs procedures and documentation across ECOWAS member states to facilitate cross-border trade and reduce non-tariff barriers.",
+      "keywords": ["customs", "harmonization", "trade", "procedures", "non-tariff barriers"],
+      "source_url": "https://www.ecowas.int/",
+      "citation_format": "ECOWAS Regulation on Customs Harmonization (2010)"
+    },
+    {
+      "id": "ECOWAS-REG-005",
+      "title": "Regulation on the ECOWAS Common External Tariff (CET)",
+      "type": "Regulation",
+      "year": 2015,
+      "summary": "Establishes a common external tariff for goods imported into the ECOWAS region, promoting regional integration and protecting local industries.",
+      "keywords": ["CET", "tariff", "imports", "integration", "trade policy"],
+      "source_url": "https://www.ecowas.int/",
+      "citation_format": "ECOWAS Regulation on the Common External Tariff (2015)"
+    },
+    {
+      "id": "ECOWAS-REG-006",
+      "title": "Regulation on the Harmonization of Investment Policies",
+      "type": "Regulation",
+      "year": 2018,
+      "summary": "Harmonizes investment policies across the region, providing a uniform framework for foreign direct investment and investor protection within ECOWAS.",
+      "keywords": ["investment", "FDI", "harmonization", "protection", "regional"],
+      "source_url": "https://www.ecowas.int/",
+      "citation_format": "ECOWAS Regulation on Investment Harmonization (2018)"
+    },
+    {
+      "id": "ECOWAS-PROTOCOL-007",
+      "title": "Protocol on the Mechanism for Conflict Prevention, Management, and Resolution",
+      "type": "Protocol",
+      "year": 1999,
+      "summary": "Establishes the framework for conflict prevention, management, and resolution in West Africa, including the ECOMOG peacekeeping force and early warning systems.",
+      "keywords": ["conflict", "peacekeeping", "ECOMOG", "prevention", "security"],
+      "source_url": "https://www.ecowas.int/",
+      "citation_format": "ECOWAS Protocol on Conflict Prevention (1999)"
+    },
+    {
+      "id": "ECOWAS-REG-008",
+      "title": "Regulation on the ECOWAS Passport",
+      "type": "Regulation",
+      "year": 2016,
+      "summary": "Establishes the legal framework for the issuance and mutual recognition of the ECOWAS biometric passport across all member states.",
+      "keywords": ["passport", "biometric", "recognition", "travel", "identity"],
+      "source_url": "https://www.ecowas.int/",
+      "citation_format": "ECOWAS Regulation on the ECOWAS Passport (2016)"
+    },
+    {
+      "id": "ECOWAS-DIR-009",
+      "title": "Directive on the Harmonization of Business Registration",
+      "type": "Directive",
+      "year": 2020,
+      "summary": "Directs member states to harmonize their business registration procedures to reduce the time and cost of starting a business within the community.",
+      "keywords": ["business", "registration", "harmonization", "ease of doing business"],
+      "source_url": "https://www.ecowas.int/",
+      "citation_format": "ECOWAS Directive on Business Registration Harmonization (2020)"
+    },
+    {
+      "id": "ECOWAS-JUDG-010",
+      "title": "ECOWAS Court of Justice: Olajide v. Nigeria (2022)",
+      "type": "Judgment",
+      "year": 2022,
+      "summary": "A landmark judgment by the ECOWAS Community Court of Justice affirming the right of citizens to seek redress for human rights violations committed by member states.",
+      "keywords": ["human rights", "redress", "court", "judgment", "citizens"],
+      "source_url": "https://www.courtecowas.org/",
+      "citation_format": "Olajide v. Nigeria, ECW/CCJ/JUD/08/22 (2022)"
+    }
+  ]
+}
